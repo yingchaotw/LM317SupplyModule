@@ -15,6 +15,7 @@ I envision the supply module to be assembled in a manner similar to Lego blocks,
 ### Bill Of Material
 1. [PMOS - DMP4011SPSQ](https://www.diodes.com/part/view/DMP4011SPSQ/#tab-details)
 2. [LDO - LM317](https://www.ti.com/product/LM317)
+3. [SW SPDT - 5176A](https://kinsten.com.tw/index.php?route=product/product&product_id=49621&search=壓動開關5.8×5.8mm)
 
 
 ## Toolchain
@@ -25,6 +26,11 @@ Use Open-Source free software to designed this project.
 [![KiCAD](https://img.shields.io/static/v1?label=&message=KiCAD&color=2536A1&logo=KiCAD)](https://www.kicad.org/)
 
 KiCad (/ˈkiːˌkæd/ KEE-kad) is a free software suite for electronic design automation (EDA). It facilitates the design and simulation of electronic hardware. It features an integrated environment for schematic capture, PCB layout, manufacturing file viewing, ngspice-provided SPICE simulation, and engineering calculation. Tools exist within the package to create bill of materials, artwork, Gerber files, and 3D models of the PCB and its components. -- [Refer to Wiki](https://en.wikipedia.org/wiki/KiCad)
+
+#### kicad V7.0.2 issue
+When I run electrical rules checker, KiCAD show me [ERC report](./Circuit%20-%20LM317%20Supply%20Module/ERC-issue.rpt). This issue refer to [Error reading simulation model from symbol](https://gitlab.com/kicad/code/kicad/-/issues/14569).
+about this issue [From 7.0.1 to 7.0.2-0: Error reading simulation model](https://forum.kicad.info/t/from-7-0-1-to-7-0-2-0-error-reading-simulation-model/41837). **It’s a bug in 7.0.2 that will be fixed in 7.0.3.**
+
 
 ### FreeCAD
 [![FreeCAD](https://img.shields.io/static/v1?label=&message=FreeCAD&color=FC1107&logo=freecad)](https://www.freecad.org/)
