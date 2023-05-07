@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PV36W502C01B00
+D Res Cermet Trimmer 5K Ohm 10% 0.5W(1/2W) 25(Elec)Turns 2.19mm (9.53 X 4.83 X 10.55mm) Pin Thru-Hole Tube
+K
+F https://www.mouser.com/datasheet/2/54/pv36-907345.pdf
+$ENDCMP
+#
+#End Doc Library

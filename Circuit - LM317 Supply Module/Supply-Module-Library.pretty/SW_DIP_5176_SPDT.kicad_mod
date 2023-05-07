@@ -23,4 +23,9 @@
   (pad "4" thru_hole circle (at 2 2.25) (size 1.4 1.4) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 238cfd16-1fa8-42cb-828a-83d7b8136044))
   (pad "5" thru_hole circle (at 0 2.25) (size 1.4 1.4) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp ce8067b6-2016-48f8-af89-51f82fd34d81))
   (pad "6" thru_hole circle (at -2 2.25) (size 1.4 1.4) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp d40249ed-fd7b-4502-9a50-619368f13e91))
+  (model "${KIPRJMOD}/Component/TL2203EE.stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
 )

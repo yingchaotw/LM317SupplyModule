@@ -12,10 +12,14 @@ I envision the supply module to be assembled in a manner similar to Lego blocks,
 
 ![](./Image/LM317%20Supply%20Module.png)
 
+## PCB 3D View
+
+![](./Image/LM317%20Supply%20Module%20PCB%203D.png)
+
 ### Bill Of Material
 1. [PMOS - DMP4011SPSQ](https://www.diodes.com/part/view/DMP4011SPSQ/#tab-details)
 2. [LDO - LM317](https://www.ti.com/product/LM317)
-3. [SW SPDT - 5176A](https://kinsten.com.tw/index.php?route=product/product&product_id=49621&search=壓動開關5.8×5.8mm)
+3. [SW SPDT - 5176A](https://kinsten.com.tw/index.php?route=product/product&product_id=49621&search=壓動開關5.8×5.8mm) / [TL2203EE](https://mou.sr/3LJwoE3)
 
 
 ## Toolchain
