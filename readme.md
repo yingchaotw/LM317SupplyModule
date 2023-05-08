@@ -10,7 +10,7 @@ I envision the supply module to be assembled in a manner similar to Lego blocks,
 
 ## Circuit
 
-![](./Image/LM317%20Supply%20Module.png)
+![](./Image/LM317%20Supply%20Module.jpg)
 
 ## PCB 3D View
 
@@ -27,7 +27,7 @@ I envision the supply module to be assembled in a manner similar to Lego blocks,
 Use Open-Source free software to designed this project.
 
 ### KiCAD
-[![KiCAD](https://img.shields.io/static/v1?label=&message=KiCAD&color=2536A1&logo=KiCAD)](https://www.kicad.org/)
+[![KiCAD](https://img.shields.io/static/v1?label=KiCAD&color=2536A1&message=7.0.2-0&logo=KiCAD)](https://www.kicad.org/) 
 
 KiCad (/ˈkiːˌkæd/ KEE-kad) is a free software suite for electronic design automation (EDA). It facilitates the design and simulation of electronic hardware. It features an integrated environment for schematic capture, PCB layout, manufacturing file viewing, ngspice-provided SPICE simulation, and engineering calculation. Tools exist within the package to create bill of materials, artwork, Gerber files, and 3D models of the PCB and its components. -- [Refer to Wiki](https://en.wikipedia.org/wiki/KiCad)
 
@@ -37,7 +37,7 @@ about this issue [From 7.0.1 to 7.0.2-0: Error reading simulation model](https:/
 
 
 ### FreeCAD
-[![FreeCAD](https://img.shields.io/static/v1?label=&message=FreeCAD&color=FC1107&logo=freecad)](https://www.freecad.org/)
+[![FreeCAD](https://img.shields.io/static/v1?label=FreeCAD&message=0.20.29177%20(Git)&color=FC1107&logo=freecad)](https://www.freecad.org/)
 
 FreeCAD is a general-purpose parametric 3D computer-aided design (CAD) modeler and a building information modeling (BIM) software application with finite element method (FEM) support. It is intended for mechanical engineering product design but also expands to a wider range of uses around engineering, such as architecture or electrical engineering. FreeCAD is free and open-source, under the LGPL-2.0-or-later license, and available for Linux, macOS, and Windows operating systems. Users can extend the functionality of the software using the Python programming language.  -- [Refer to Wiki](https://en.wikipedia.org/wiki/FreeCAD)
 

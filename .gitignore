@@ -2,3 +2,5 @@
 *.kicad_prl
 .DS_Store
 *cache
+_autosave*
+__MACOSX/
