@@ -1,6 +1,10 @@
 
 *.kicad_prl
-.DS_Store
 *cache
+*.xml
+
 _autosave*
 __MACOSX/
+.DS_Store
+
+Circuit - Power Module/

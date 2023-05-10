@@ -443,7 +443,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "LM317_supply_module.dsn",
       "step": "",
       "vrml": ""
     },
